@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssidhaye&show_icons=true&theme=tokyonight&line_height=21"/>
+<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=ssidhaye&theme=tokyonight" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=ssidhaye&theme=tokyonight"/>
+
+
 <!--
 **ssidhaye/ssidhaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
